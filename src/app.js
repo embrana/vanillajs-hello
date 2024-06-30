@@ -26,10 +26,5 @@ function generateExcuse() {
 
 window.onload = function() {
   //write your code here
-  console.log("Hello Rigo from the console!");
   document.getElementById("excuse").innerHTML = generateExcuse();
 };
-
-// window.onload = function() {
-//
-// };
